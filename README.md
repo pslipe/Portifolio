@@ -4,7 +4,7 @@ Este projeto foi o meu primeiro projeto feito e finalizado sozinho, apenas com m
 
 ## 🚀 Começando
 
-O projeto é bem simples de ser testado, bascta clicar no [link](https://portifolio-57v1aubjv-pslipe.vercel.app/) e entrar no deploy feito pela VERCEL onde possibilita o teste intuitivo do sistema. OBS.: Lembre-se de ativar o microfone e permitir o uso, para uma experiência completa.
+O projeto é bem simples de ser testado, bascta clicar no [link](https://portifolio-phi-kohl.vercel.app/) e entrar no deploy feito pela VERCEL onde possibilita o teste intuitivo do sistema. OBS.: Lembre-se de ativar o microfone e permitir o uso, para uma experiência completa.
 
 
 ## 🛠️ Construído com
